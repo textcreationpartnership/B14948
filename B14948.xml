@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The new tydings out of Italie are not yet com</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1620</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14948</idno>
+            <idno type="STC">STC 18507.1</idno>
+            <idno type="STC">ESTC S119505</idno>
+            <idno type="EEBO-CITATION">99854712</idno>
+            <idno type="PROQUEST">99854712</idno>
+            <idno type="VID">177420</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14948)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177420)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1133:7a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The new tydings out of Italie are not yet com</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By George Veseler, Ao. 1620. The 2. of Decemember. [sic] And are to be soulde by Petrus Keerius, dvvelling in the Calverstreete, in the uncertaine time,</publisher>
+                  <pubPlace>Imprinted at Amsterdam :</pubPlace>
+                  <date>[1620]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening words of text.</note>
+                  <note>Formerly STC 5745.</note>
+                  <note>Identified as STC 5745 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Bound with 24 other issues of Corant.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Europe --  History --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:177420:1" rendition="simple:additions"/>
+            <head>The new tydings out of Italie are not yet com.</head>
+            <div type="part">
+               <opener>
+                  <dateline>Out of Weenen, <date>the 6 November.</date>
+                  </dateline>
+               </opener>
+               <p>THe French Ambaſſadour hath cauſed the Earle of Dampier to be buried ſtately at Preſburg. In the meane vvhile hath Bethlem Gabor cited all the Hungeriſh States, to com together at Preſburg the 5. of this preſent, to diſcourſe aboute the Crovvning &amp; other cauſes concerning the ſame Kingdom.</p>
+               <p>The Hungatians continue vvith roveing againſt theſe Lands. In like manner thoſe of Moravia, vvhich are fallen uppon the Coſackes yeſter night by Hofleyn, ſet them on fire, and ſlaine many dead, the reſt vvill revenge the ſame.</p>
+               <p>Heere is certaine nevves com, that the Cra<g ref="char:EOLhyphen"/>bats, as alſo the Lord Budean, are ſallen unto Betlem Gabor.</p>
+               <p>The Emperour ſends the Earle of Altheim, as Ambaſſadour to Crackovv in Polen, to appeare upon the ſame meeting-day.</p>
+               <p>Novv comes tidings, that Betlem Gabor is at Thurna, there doe gather to gether great ſtore of States.</p>
+               <p>The Emper. Maj. hath appoynted heere a meeting-day upon the 1. of Decemb. thereupon ſhould appeare the 4. Proclaimed States. The appoynted taxing ſhall bring up a great ſom of money.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Out of Prage,<date> the 5 of November.</date>
+                  </dateline>
+               </opener>
+               <p>Three dayes agone are paſſed by, 2. mile from this Cittie 6000. Hungarians (choſen out Sol<g ref="char:EOLhyphen"/>diers) under the General Rediſerens, vvhich are gon to our Head-camp, &amp; the Enimie lieth yet near unto ours by Rackonits, though the crie goeth, that the enimie cauſed all his might to com togither, to com this vvayes againſt Prage, if that comes to paſſe, it ſhall not run of vvith<g ref="char:EOLhyphen"/>out blovves, the vvhich might be revealed vvith in fevv dayes.</p>
+               <p>It continues, that in the Satſer Crais are ga<g ref="char:EOLhyphen"/>thered togither 10000 Contrie-men, moſt high-dutch-men, againſt Meiſſen, &amp; no Bohemians, they vvill help the King, to drive the enimie out of the Land. In like manner ſom certaine 1000 Contrie-men rebel in the Lentmaritſcher Crais, but it is feared that thoſe Countrie-men are ſtarred up, through practiſe of the Adverſarie, that the enimie in the meane vvhile might com to Prage. Wee underſtand, that Bucquoy hath not been in the Camp, but by the Duke of Saxen ſom certaine dayes, therefore vve are to looke to our ſelves, for feare of Trecherie. And it is thought that the Emperour vvill leave Auſtria to the Hungorians, &amp; ſee to effect his intention only uppon Praghe.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Out of Ceulen,<date> the <hi>21.</hi> Novemb.</date>
+                  </dateline>
+               </opener>
+               <p>Writing from Marpurg in Heſſen, that the Earle of the ſame Land, doth cauſe the foreſaid Cittie to be ſtrongly fortified, there on doe vvorke many 100 men dayly, and there is mu<g ref="char:EOLhyphen"/>ſtered in the Earleſhip Zigenheym not long ſince 1. Governement of foote-men, &amp; 6. Cor<g ref="char:EOLhyphen"/>nets of horſe-men, the foote-men are ſent to Marpurg &amp; Rijnfels. But the horſe-men are lod<g ref="char:EOLhyphen"/>ged in the Villages about the Cittie, &amp; there<g ref="char:EOLhyphen"/>after are alſo muſtered the Duke of Saxen Lau<g ref="char:EOLhyphen"/>vvenburgs Governement in Tries-Zigenheym, novv further vvhere they ſhallbe laid &amp; uſed, is yet unknovvn. The fames Brothers Governe<g ref="char:EOLhyphen"/>ment, there quarter is laid by Caſſel, the Soul<g ref="char:EOLhyphen"/>diers vvhich are taken on about Hamburg, Lu<g ref="char:EOLhyphen"/>beck, in the Dukeſhip of Holſteen, &amp; Mecke<g ref="char:EOLhyphen"/>lenburg, ſhould alſo be muſtered about Caſſel, &amp; be uſed vvhere neede ſhall require.</p>
+               <p>Since the laſt vve cannot enquire, that there is any thing of any importaunce paſſed betvvixt the Matquis Spinola &amp; the Vnited Princes. We underſtand that the foreſaid Spinola vvil lay his Souldiers in Garniſſon vvith the firſt, &amp; deale them unto divers places, on part to Oppenheym, Altzey, Ingelheym &amp; Cruitſnach, the other part at Summeren &amp; Bacharacht, the ſpeech goeth that there ſhalbe layed vvith in Ments a good Company in Garniſſon.</p>
+               <p>The Biſhop at Halberſtadt, Duke Chriſtiaen at Bruynſvvyck, doth cauſe to be taken on 2000 Muſquetters, to ſend to the Vnited Princes.</p>
+               <p>Heere is tydings, that betvveen the King of Bohemia &amp; the Emperours folke hath beene a great Battel about Prage, but becauſe there is different vvriting &amp; ſpeaking thereuppon, ſo cannot for this time any certainety thereof be vvritten, but muſt vvayte for the next Poſt. As alſo of the Cittie Pilſen, vvhich the Earle of Manſvelt (ſo the ſpeech goeth) ſhould have de<g ref="char:EOLhyphen"/>livered into the Emperours hands.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From Cadan in Bohemia, 4 mile from Raconits,<date> the 12. November.</date>
+                  </dateline>
+               </opener>
+               <p>From Solts is certaine adviſe that the Em<g ref="char:EOLhyphen"/>perours folk have made them ſelves vvith all theire might out of theire Camp, &amp; taken their vvay to vvards Praghe, like as they vveare then com to the long mile, but as the King under<g ref="char:EOLhyphen"/>ſtand ſuch, he is broken up vvith his armey, and com to the lo<g ref="char:cmbAbbrStroke">̄</g>g mile beforen the enimie, vvhere they have had a very ſtrong Battelle &amp; on both ſides more then 6000 men ſlaine, though moſt on the Kings ſide, alſo hath the enimie gotten of the King ſom peeces of Ordenuaunce and vvaggens vvith amunitie, ſo that the King muſt retire back to Praghe, and the enimie to the Weiſſenberg, there he lies yet and roves from thence to the Leut Maritſcher Crais unto Brix,
+<pb facs="tcp:177420:2"/>hath taken in, Trebnits, Pielan &amp; Dux, alſo laid folk upon Leutmariſcher Slainer, and Launer paſſages, that the Paſſage upon Prage is vvholy taken avvay, and this day is com heere in a cer<g ref="char:EOLhyphen"/>tain Perſon that brings tydinghs unto our Ma<g ref="char:EOLhyphen"/>giſtrat, that betvvixt Sonnevveid and Patronit, vvhere the enimie hath lien are found ſom cer<g ref="char:EOLhyphen"/>taine 1000 dead Bodies, &amp; on the other ſide there King lay alſo ſom certaine 1000. dead bodies, vvhat is com to paſſe betvvixt both vve ſhal ſhortly heare.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Out of Amberghe, in the Vpper-Pallatine, <date>the 17. dito.</date>
+                  </dateline>
+               </opener>
+               <p>Here hath beene a greate crie, that the Duke of Beyeren ſhould have taken in Praghe, and beaten our King out of the fielde, but is not cer<g ref="char:EOLunhyphen"/>taine, for the Carle of Solms vvrites out of Waltſaxſen of the 14 of this preſent, that the Duke of Beyeren vvas broken up with his camp very ſtil, &amp; marched in al haſt to Prage, though they had left ſom 100 men vvhich lay in theire quarter ſoom houres, vvhich made fires there in, that on vvoulde not have thought but that the vvhole Armay had layen there ſtill, but as ours underſtood that they vveregon follovved they them preſently, though the Beyerens vverd com to Weiſſenberge before but the 8 of this preſent have ours ſett uppon the Beyerens by force, and fought the vvhole day togither, that on both ſides are ſlaine aboute 8000 men, and very many ſhould be hurt. Our King, vvith the Lord General the Earle of Hohenlo, alſo the vvhole army are vvith in Prage, &amp; the Duke of Beyeren uppon the Weyſſenbergh &amp; Stern; vve hoope that they ſhall ſhortly be driven from thence. What further is done betvvixt them, vve look for every houre to enquire further thereof &amp; it ſeemes none can com from Prage, becauſe the paſſages are every vvhere ſhut.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Out of Ceulen,<date> the 24 of November.</date>
+                  </dateline>
+               </opener>
+               <p>Letters out of Neurenburghe of the 20 of this preſent, make mention, that they had adviſe from the Borders of Bohemia, that there had beene a very great Battel by Prage, betvveen the King &amp; the Duke of Beyeren, &amp; many 1000. ſlaine on both ſides, but that the Duke of Beye<g ref="char:EOLhyphen"/>ren ſhould have any folke vvith in Prage, is yet uncertaine, there uppon under the Merchants vvith in Neurenberge are laid many 100. Florins that the Emperour, nor the Duke of Beyeren have no folke vvith in Prage. The cauſe that here comes no certainty thereof, is this; That all paſ<g ref="char:EOLhyphen"/>ſages are ſo beſet, &amp; ſo dangerous to travaile, that it is to vvondered at, &amp; not enough to be vvritte<g ref="char:cmbAbbrStroke">̄</g> of, vvhat roveing, ſpoyling and killing is done dayly uppon all vvayes.</p>
+               <p>Vppon the Schanſe Prieſts cap is ſtrongly buileed, &amp; buy dayly much vvood lime &amp; ſtone, to make houſes there upon, and ſo provide them ſelves for the vvhole vvinter. And are not long ſince in the night 500 Souldiers paſſed by Dure out of Gulik, ſo the ſpeech goeth, there meaning ſhoulde be to build a nievv Schantſe by Flam<g ref="char:EOLhyphen"/>merſheym, to take avvay the paſſage from the Marquis Spinola.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Imprinted at Amſterdam by George Veſeler, Ao. 1620. The 2. of December.</hi>
+            </p>
+            <p>And are to be ſoulde by Petrus Keerius, dvvelling in the Calverſtreete, in the uncertaine time.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
